@@ -1,0 +1,5 @@
+body { background: #E6E6E6 !important; text-align: center;}
+/*.title-container { background-color: #E1E1E1; text-align: center; margin-top: 10px;}*/
+.title { padding-bottom: 5px;  padding-top: 1px; color: #3DBF41;}
+div .title h3{ font-style: italic;}
+p { color: #BDBDBD; font-size: 20px;}
